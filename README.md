@@ -6,3 +6,7 @@ The goal of this work is to develop a federated learning-based Deep Neural Netwo
 - ECU-IoHT  https://ro.ecu.edu.au/datasets/48/
 
 # Algorithms Used
+\begin{itemize}
+\item 
+\end{itemize}
+
