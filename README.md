@@ -4,7 +4,8 @@ The goal of this work is to develop a federated learning-based Deep Neural Netwo
 # Dataset Used
 - wustl-ehms-2020 https://www.cse.wustl.edu/~jain/ehms/index.html
 - ECU-IoHT  https://ro.ecu.edu.au/datasets/48/
-
+# Citation
+...
 # Algorithms Used
 Decentralized method:
 - DNN-FL (Deep Neural Network)
@@ -16,4 +17,6 @@ Centralized methods:
 - CNN-LSTM (mix of Convolutional and Recurrent Neural Networks)
 - 
 # How to Run it:
+
+To run the Colab notebook code, you must first download dataset files and the notebook. Then upload them on your Google collaborator ( in the same directory).
 
