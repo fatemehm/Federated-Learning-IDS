@@ -9,11 +9,11 @@ The goal of this work is to develop a federated learning-based Deep Neural Netwo
 Decentralized method:
 - DNN-FL (Deep Neural Network)
 
-Centralized method:
+Centralized methods:
 
 - DNN (Deep Neural Network)
 - LSTM (Long Short-Term Memory) 
 - CNN-LSTM (mix of Convolutional and Recurrent Neural Networks)
-
-#How to Run it:
+- 
+# How to Run it:
 
