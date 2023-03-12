@@ -18,5 +18,5 @@ Centralized methods:
 - 
 # How to Run it:
 
-To run the Colab notebook code, you must first download dataset files and the notebook. Then upload them on your Google collaborator ( in the same directory).
+To run the Colab notebook code, you must first download dataset files and two notebooks (DNN_FL_based_IDS.ipynb, Wustl_ECU_ICU_Centralized_Learning.ipynb). Then upload them on your Google collaborator ( in the same directory).
 
