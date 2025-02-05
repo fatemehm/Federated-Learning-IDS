@@ -1,4 +1,4 @@
-# Federated Learning-Based IoHT Intrusion Detection System
+# Federated Learning-Based Intrusion Detection System for IoHT  Devices
 The goal of this work is to develop a federated learning-based Deep Neural Network (DNN-FL) as the classifier for each client to analyze network traffic and detect attacks in the IoHT environment. We compare results with three different deep learning methods (centralized method).
 
 # Dataset Used
