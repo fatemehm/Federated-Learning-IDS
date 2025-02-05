@@ -9,6 +9,7 @@ The goal of this work is to develop a federated learning-based Deep Neural Netwo
 MOSAIYEBZADEH, F. ; POURIYEH, S. ; PARIZI, R. M. ; HAN, M. ; BATISTA, D. M. . Intrusion Detection System for IoHT Devices using Federated Learning. In: 
 AidTSP 2023: International Workshop on AI-driven Trustworthy, Secure, and Privacy-Preserving Computing, 2023. Proceedings of the IEEE INFOCOM Workshops,
 2023.
+https://ieeexplore.ieee.org/abstract/document/10225932
 
 # Algorithms Used
 Decentralized method:
